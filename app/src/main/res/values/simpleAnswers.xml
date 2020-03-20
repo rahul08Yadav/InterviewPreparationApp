@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_answers">
+        <item>Android is a mobile operating system developed by Google. It is based on a modified version of the Linux kernel and other open source software, and is designed primarily for touchscreen mobile devices such as smartphones and tablets.</item>
+        <item>The Android SDK (software development kit) is a set of development tools used to develop applications for Android platform. The Android SDK includes the following: Required libraries. ... Relevant documentation for the Android application program interfaces (APIs) Sample source code.</item>
+        <item>Android Architecture is made up of 4 key components:
+            Linux Kernel
+            Libraries
+            Android Framework
+             Android Applications
+</item>
+        <item>The emulator lets developers "play" around an interface that acts as if it were an actual mobile device. They can write and test codes, and even debug. Emulators are a safe place for testing codes especially if it is in the early design phase. </item>
+        <item>Intents displays notification messages to the user from within the Android enabled device. It can be used to alert the user of a particular state that occurred. Users can be made to respond to intents. </item>
+    </string-array>
+</resources>

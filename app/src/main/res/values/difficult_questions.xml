@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="difficult_questions">
+        <item>When is the onStop() method invoked?</item>
+        <item> What is the AndroidManifest.xml?</item>
+        <item>What is a Fragment?</item>
+        <item> Why bytecode cannot be run in Android?</item>
+        <item>What’s the difference between onCreate() and onStart()?</item>
+    </string-array>
+</resources>

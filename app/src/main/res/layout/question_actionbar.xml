@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:id="@+id/question_actionbar"
+    android:background="@drawable/question_actionbar"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/back_button"
+        android:layout_width="50dp"
+        android:background="@drawable/back"
+        android:layout_marginRight="10dp"
+        android:layout_height="50dp"
+        />
+
+    <TextView
+        android:id="@+id/question_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+
+        android:text="@string/actionbar_question"
+        android:textSize="30sp"
+
+        />
+    <Button
+        android:id="@+id/speech_button"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/speech"
+        android:layout_marginLeft="10dp"
+        />
+
+</LinearLayout>

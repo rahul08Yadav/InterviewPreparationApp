@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Interview</string>
+    <string name="sq">Simple Question</string>
+    <string name="tq">Tough Question</string>
+    <string name="seeOther">See Other Apps</string>
+    <string name="rate">Rate App</string>
+    <string name="tv_xx">XX/</string>
+    <string name="tv_yy">YY</string>
+    <string name="tv_question">Questions</string>
+    <string name="tv_answer">Press A for Answer</string>
+    <string name="tvactivity">Interview Content</string>
+    <string name="actionbar_question">Actionbar Question</string>
+
+</resources>

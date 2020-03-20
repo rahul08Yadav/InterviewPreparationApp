@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:gravity="center_horizontal"
+    android:layout_width="match_parent"
+    android:id="@+id/activity_actionbar"
+    android:background="@drawable/activity_actionbar"
+    android:layout_height="60dp">
+    <TextView
+        android:id="@+id/actionbar_activity_tv"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="@string/tvactivity"
+        android:textSize="35sp"
+        android:textColor="#000"/>
+
+</LinearLayout>

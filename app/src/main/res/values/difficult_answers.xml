@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="difficult_answers">
+        <item>A call to onStop method happens when an activity is no longer visible to the user, either because another activity has taken over or if in front of that activity.
+
+</item>
+        <item>This file is essential in every application. It is declared in the root directory and contains information about the application that the Android system must know before the codes can be executed. </item>
+        <item>A fragment is a part or portion of an activity. It is modular in a sense that you can move around or combine with other fragments in a single activity. Fragments are also reusable. </item>
+        <item>Android uses DVM (Dalvik Virtual Machine ) rather using JVM(Java Virtual Machine).</item>
+        <item>    The onCreate() method is called once during the Activity lifecycle, either when the application starts, or when the Activity has been destroyed and then recreated, for example during a configuration change.
+    The onStart() method is called whenever the Activity becomes visible to the user, typically after onCreate() or onRestart().</item>
+    </string-array>
+</resources>

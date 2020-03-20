@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_question">
+        <item>What is Android?</item>
+        <item>What is Google Android SDK?</item>
+        <item>What is the Android Architecture?</item>
+        <item>What is the importance of having an emulator within the Android environment?</item>
+        <item>What are Intents?</item>
+    </string-array>
+</resources>
